@@ -1,0 +1,6 @@
+﻿Build started at 4:29 AM...
+1>------ Build started: Project: task1, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>task1 -> C:\eraa soft project\challenge\task1\task1\bin\Debug\net9.0\task1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 4:29 AM and took 04.167 seconds ==========
