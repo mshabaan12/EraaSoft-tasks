@@ -1,0 +1,5 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\search 1\search 1\obj\Debug\net9.0\search 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\search 1\search 1\obj\Debug\net9.0\search 1.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\search 1\search 1\obj\Debug\net9.0\search 1.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\search 1\search 1\obj\Debug\net9.0\search 1.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\search 1\search 1\obj\Debug\net9.0\search 1.sourcelink.json
