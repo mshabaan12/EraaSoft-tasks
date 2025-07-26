@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\bin\Debug\net9.0\search.exe
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\bin\Debug\net9.0\search.deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\bin\Debug\net9.0\search.runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\bin\Debug\net9.0\search.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\bin\Debug\net9.0\search.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\refint\search.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\search.genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\search\search\obj\Debug\net9.0\ref\search.dll
