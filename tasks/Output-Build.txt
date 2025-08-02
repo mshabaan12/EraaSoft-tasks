@@ -1,0 +1,6 @@
+﻿Build started at 11:27 PM...
+1>------ Build started: Project: chaleange2Lec3, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>chaleange2Lec3 -> C:\eraa soft project\EraaSoft-tasks\tasks\chaleange2Lec3\chaleange2Lec3\bin\Debug\net9.0\chaleange2Lec3.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 11:27 PM and took 00.652 seconds ==========
