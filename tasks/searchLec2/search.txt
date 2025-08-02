@@ -1,0 +1,12 @@
+بتاع المعادلة طلع كدا(30%)  عشان ال  out put ال
+standard numeric format دي فايدتها انها تعرفك الخرج  بتاع المعادلة دي وحدته ايه 
+ أنها تحدد وحدة الخرج وتنظم الأرقام في الكود بتاعك  standard numeric format فايدة 
+وبالتالي وحدة الخرج هتطلع علي حسب ال انا مختارة .و معظم الوحدات المشهورة   
+
+unite      abbrevition   ex 
+
+currency      c         30.00$
+precent       p         89.00%
+decimal       d         017
+doule discount 
+

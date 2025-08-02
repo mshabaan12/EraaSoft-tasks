@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\task1Lec3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEE8287-9F07-463D-B11E-2E32585DBC4D}|task1Lec3\\task1Lec3.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\task1lec3\\task1lec3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DEE8287-9F07-463D-B11E-2E32585DBC4D}|task1Lec3\\task1Lec3.csproj|solutionrelative:task1lec3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\task1Lec3\\task1Lec3\\Program.cs",
+              "RelativeDocumentMoniker": "task1Lec3\\Program.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\task1Lec3\\task1Lec3\\Program.cs",
+              "RelativeToolTip": "task1Lec3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:11:05.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
