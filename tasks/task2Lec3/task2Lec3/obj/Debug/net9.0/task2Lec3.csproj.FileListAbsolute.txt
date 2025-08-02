@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\bin\Debug\net9.0\task2Lec3.exe
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\bin\Debug\net9.0\task2Lec3.deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\bin\Debug\net9.0\task2Lec3.runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\bin\Debug\net9.0\task2Lec3.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\bin\Debug\net9.0\task2Lec3.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\refint\task2Lec3.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\task2Lec3.genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\task2Lec3\task2Lec3\obj\Debug\net9.0\ref\task2Lec3.dll
