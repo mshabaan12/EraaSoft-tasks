@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chaleange1Lec3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a03acc2fe3759565b144f66a353cb842d8f49d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d5015058ebe02dc1645b68c2aa52cfaaeb6bf86")]
 [assembly: System.Reflection.AssemblyProductAttribute("chaleange1Lec3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chaleange1Lec3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

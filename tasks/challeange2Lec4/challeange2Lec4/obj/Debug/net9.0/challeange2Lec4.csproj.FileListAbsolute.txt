@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\bin\Debug\net9.0\challeange2Lec4.exe
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\bin\Debug\net9.0\challeange2Lec4.deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\bin\Debug\net9.0\challeange2Lec4.runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\bin\Debug\net9.0\challeange2Lec4.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\bin\Debug\net9.0\challeange2Lec4.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\refint\challeange2Lec4.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\challeange2Lec4.genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challeange2Lec4\challeange2Lec4\obj\Debug\net9.0\ref\challeange2Lec4.dll
