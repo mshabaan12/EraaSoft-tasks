@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("challeange2Lec4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d5015058ebe02dc1645b68c2aa52cfaaeb6bf86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+599f954ab9b5a01125dc6e1f8146e86275d03d10")]
 [assembly: System.Reflection.AssemblyProductAttribute("challeange2Lec4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("challeange2Lec4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

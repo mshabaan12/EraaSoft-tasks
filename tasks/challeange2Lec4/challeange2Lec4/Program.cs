@@ -1,33 +1,30 @@
-﻿using System.Threading.Channels;
-
-namespace challeange2Lec4
+﻿namespace challeange2Lec4
 {
     internal class Program
     {
         static void Main(string[] args)
-        {// test the number is even or odd
-            Console.WriteLine("how many numbers  you want to enter");
-
-            int x = Convert.ToInt32(Console.ReadLine());
-            int[] arr = new int[x];
-            int even = 0;
-            int odd = 0;
-            for (int i = 0; i < arr.Length; i++)
+        {// challeange2 lec 4 "continue"
+            Console.WriteLine("you can enter 10 numbers ");
+            int sum = 0;
+            for (int i = 1; i <=10; i++)
             {
-                Console.WriteLine("enter your number "+(i+1));
-                arr [i] = Convert.ToInt32 (Console.ReadLine());
+
+                Console.WriteLine("enter number" + i);
                
-               if (arr[i] % 2 == 0)
-                {
-                    even++;
-                }
-                else
-                {
-                    odd++;
-                }
-              
+                int num = Convert.ToInt32(Console.ReadLine());
+               
+                if (num < 0)
+
+                { continue; }
+                else if (num == 999)
+                {break;
+                } 
+                else 
+                    sum = sum + num;
             }
-            Console.WriteLine("even numbers = "+ even +" ,odd numbers " + odd); 
-        }  
+            Console.WriteLine("sum = " + sum);
+
+        }
+
     }
 }

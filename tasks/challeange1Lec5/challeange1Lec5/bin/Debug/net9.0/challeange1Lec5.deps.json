@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "challeange1Lec5/1.0.0": {
+        "runtime": {
+          "challeange1Lec5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "challeange1Lec5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

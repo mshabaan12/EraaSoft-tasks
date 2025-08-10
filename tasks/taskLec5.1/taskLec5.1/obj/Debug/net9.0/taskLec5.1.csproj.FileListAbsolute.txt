@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\bin\Debug\net9.0\taskLec5.1.exe
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\bin\Debug\net9.0\taskLec5.1.deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\bin\Debug\net9.0\taskLec5.1.runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\bin\Debug\net9.0\taskLec5.1.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\bin\Debug\net9.0\taskLec5.1.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\refint\taskLec5.1.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\taskLec5.1.genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\taskLec5.1\taskLec5.1\obj\Debug\net9.0\ref\taskLec5.1.dll
