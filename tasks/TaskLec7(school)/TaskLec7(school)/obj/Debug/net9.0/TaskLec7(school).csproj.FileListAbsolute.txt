@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\bin\Debug\net9.0\TaskLec7(school).exe
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\bin\Debug\net9.0\TaskLec7(school).deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\bin\Debug\net9.0\TaskLec7(school).runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\bin\Debug\net9.0\TaskLec7(school).dll
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\bin\Debug\net9.0\TaskLec7(school).pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).dll
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\refint\TaskLec7(school).dll
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\TaskLec7(school).genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\TaskLec7(school)\TaskLec7(school)\obj\Debug\net9.0\ref\TaskLec7(school).dll

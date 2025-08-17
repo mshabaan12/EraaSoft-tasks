@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\bin\Debug\net9.0\challengeLec7.exe
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\bin\Debug\net9.0\challengeLec7.deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\bin\Debug\net9.0\challengeLec7.runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\bin\Debug\net9.0\challengeLec7.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\bin\Debug\net9.0\challengeLec7.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\refint\challengeLec7.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\challengeLec7.genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challengeLec7\challengeLec7\obj\Debug\net9.0\ref\challengeLec7.dll

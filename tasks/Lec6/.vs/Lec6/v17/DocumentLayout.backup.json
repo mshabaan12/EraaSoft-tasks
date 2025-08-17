@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Lec6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49CE7E3C-C7FB-4BA5-98B8-A4D27668F9E4}|Lec6\\Lec6.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\lec6\\lec6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49CE7E3C-C7FB-4BA5-98B8-A4D27668F9E4}|Lec6\\Lec6.csproj|solutionrelative:lec6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D46C8D63-05BF-4750-B1B8-44A57E53C7FE}|Lec6\\Lec6.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\lec6\\lec6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46C8D63-05BF-4750-B1B8-44A57E53C7FE}|Lec6\\Lec6.csproj|solutionrelative:lec6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "Lec6\\Program.cs",
               "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Lec6\\Lec6\\Program.cs",
               "RelativeToolTip": "Lec6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T16:30:06.247Z",
+              "WhenOpened": "2025-08-10T14:46:36.17Z",
               "EditorCaption": ""
             }
           ]
