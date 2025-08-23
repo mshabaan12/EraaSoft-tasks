@@ -1,0 +1,4 @@
+protected internal is using to in anthor class that inharities from him and also in other class not inharties but in the  same project 
+private protected is using in the same class and only in classes that inharts from him and also in the same project 
+
+Exception Handling is using to solve mistak that  may occurre in block of code ,it's usefull be that not stop of code and help you by giving you message to show you what mistake was happened   

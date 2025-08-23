@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\challeange1Lec9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC43E43-545C-4C53-8463-D4F134A07717}|challeange1Lec9\\challeange1Lec9.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\challeange1lec9\\challeange1lec9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC43E43-545C-4C53-8463-D4F134A07717}|challeange1Lec9\\challeange1Lec9.csproj|solutionrelative:challeange1lec9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\challeange1Lec9\\challeange1Lec9\\Program.cs",
+              "RelativeDocumentMoniker": "challeange1Lec9\\Program.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\challeange1Lec9\\challeange1Lec9\\Program.cs",
+              "RelativeToolTip": "challeange1Lec9\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvycAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:15:22.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\bin\Debug\net9.0\challenge3Lec8.exe
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\bin\Debug\net9.0\challenge3Lec8.deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\bin\Debug\net9.0\challenge3Lec8.runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\bin\Debug\net9.0\challenge3Lec8.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\bin\Debug\net9.0\challenge3Lec8.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\refint\challenge3Lec8.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\challenge3Lec8.genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\challenge3Lec8\challenge3Lec8\obj\Debug\net9.0\ref\challenge3Lec8.dll
