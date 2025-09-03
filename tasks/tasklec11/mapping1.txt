@@ -1,0 +1,6 @@
+Musicain(Musicain_id,Name,phone,st,city)
+Instrument(instrument_name,key)
+Song(song_title,Author,Album_id)
+Album(Album_id,date,title,musicain_id)
+musicain_Instrument(musicain_id,instrument_name)
+musicain_Song(musicain_id,Song_title)

@@ -1,0 +1,7 @@
+Employee(emp_id,name,sales_num)
+salesoffice(sales_num,loc,emp_id)
+property(prop_id,add,city,state,zip,sales_num)
+owner(own_id,name)
+property_owner(prop_id,own_id,percentowend)
+
+

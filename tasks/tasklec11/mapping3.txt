@@ -1,0 +1,10 @@
+patient(patient_id,name,dob,ward_id,cons_id)
+ward(ward_id,name,nurse_id)
+nurse(nurse_id,name,ward_id)
+drug(drug_code,recdosage)
+consultant(cons_id,name)
+patient_nurse(patient_id,nurse_id)
+patient_consultant(patient_id,cons_id)
+pateint_drug(patient_id,drug_code,date,time,dosage)
+durg_brand(drug_code,brand)
+
