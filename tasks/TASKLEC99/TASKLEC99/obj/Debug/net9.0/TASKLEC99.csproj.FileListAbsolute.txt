@@ -1,0 +1,15 @@
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\bin\Debug\net9.0\TASKLEC99.exe
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\bin\Debug\net9.0\TASKLEC99.deps.json
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\bin\Debug\net9.0\TASKLEC99.runtimeconfig.json
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\bin\Debug\net9.0\TASKLEC99.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\bin\Debug\net9.0\TASKLEC99.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.GeneratedMSBuildEditorConfig.editorconfig
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.AssemblyInfoInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.AssemblyInfo.cs
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.csproj.CoreCompileInputs.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.sourcelink.json
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\refint\TASKLEC99.dll
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.pdb
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\TASKLEC99.genruntimeconfig.cache
+C:\eraa soft project\EraaSoft-tasks\tasks\TASKLEC99\TASKLEC99\obj\Debug\net9.0\ref\TASKLEC99.dll

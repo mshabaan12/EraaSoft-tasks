@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TASKLEC99/1.0.0": {
+        "runtime": {
+          "TASKLEC99.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TASKLEC99/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
