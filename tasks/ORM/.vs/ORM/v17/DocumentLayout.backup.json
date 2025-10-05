@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\orm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\models\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\models\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\models\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\models\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\20250927131536_test5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\20250927131536_test5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\20250927131536_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\20250927131536_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\models\\classes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\models\\classes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\20250924143004_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\20250924143004_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\20250924170824_editname.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\20250924170824_editname.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\20250924170824_editname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\20250924170824_editname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\20250927103644_editordr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\20250927103644_editordr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\orm\\orm\\migrations\\20250924192611_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F571337-80D6-42F1-BEB2-608E122544A1}|ORM\\ORM.csproj|solutionrelative:orm\\migrations\\20250924192611_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\classes\\Product.cs",
+              "RelativeDocumentMoniker": "ORM\\MODELS\\classes\\Product.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\classes\\Product.cs",
+              "RelativeToolTip": "ORM\\MODELS\\classes\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:24:48.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ORM.csproj",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\ORM.csproj",
+              "RelativeDocumentMoniker": "ORM\\ORM.csproj",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\ORM.csproj",
+              "RelativeToolTip": "ORM\\ORM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T22:15:26.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ORM\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:45:25.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Program.cs",
+              "RelativeDocumentMoniker": "ORM\\Program.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Program.cs",
+              "RelativeToolTip": "ORM\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T12:59:59.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ORM\\MODELS\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ORM\\MODELS\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:04:44.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250927131536_test5.Designer.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250927131536_test5.Designer.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\20250927131536_test5.Designer.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250927131536_test5.Designer.cs",
+              "RelativeToolTip": "ORM\\Migrations\\20250927131536_test5.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:16:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\classes\\Person.cs",
+              "RelativeDocumentMoniker": "ORM\\MODELS\\classes\\Person.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\classes\\Person.cs",
+              "RelativeToolTip": "ORM\\MODELS\\classes\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:06:48.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250927131536_test5.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250927131536_test5.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\20250927131536_test5.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250927131536_test5.cs",
+              "RelativeToolTip": "ORM\\Migrations\\20250927131536_test5.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:15:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\classes\\Category.cs",
+              "RelativeDocumentMoniker": "ORM\\MODELS\\classes\\Category.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\MODELS\\classes\\Category.cs",
+              "RelativeToolTip": "ORM\\MODELS\\classes\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:22:35.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250927103644_editordr.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250927103644_editordr.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\20250927103644_editordr.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250927103644_editordr.cs",
+              "RelativeToolTip": "ORM\\Migrations\\20250927103644_editordr.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:36:44.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250924143004_addtables.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924143004_addtables.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\20250924143004_addtables.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924143004_addtables.cs",
+              "RelativeToolTip": "ORM\\Migrations\\20250924143004_addtables.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T14:30:04.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250924192611_test.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924192611_test.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\20250924192611_test.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924192611_test.cs",
+              "RelativeToolTip": "ORM\\Migrations\\20250924192611_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:26:11.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250924170824_editName.Designer.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924170824_editName.Designer.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\20250924170824_editName.Designer.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924170824_editName.Designer.cs",
+              "RelativeToolTip": "ORM\\Migrations\\20250924170824_editName.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T19:15:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250924170824_editName.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924170824_editName.cs",
+              "RelativeDocumentMoniker": "ORM\\Migrations\\20250924170824_editName.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ORM\\ORM\\Migrations\\20250924170824_editName.cs",
+              "RelativeToolTip": "ORM\\Migrations\\20250924170824_editName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:08:24.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
