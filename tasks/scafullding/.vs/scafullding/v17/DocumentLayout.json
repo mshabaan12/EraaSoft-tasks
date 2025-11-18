@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\scafullding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\scafullding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Migrations\\20251004203050_addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scafullding\\Migrations\\20251004203050_addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\migrations\\20251004142715_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\migrations\\20251004142715_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Migrations\\20251004143359_addperon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scafullding\\Migrations\\20251004143359_addperon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\BikeStoresContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:scafullding\\BikeStoresContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\scafullding\\scafullding\\migrations\\20251004203050_addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB290DB7-3592-4F96-B7F5-4E813CC6EADF}|scafullding\\scafullding.csproj|solutionrelative:scafullding\\migrations\\20251004203050_addperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,20 +38,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "20251004203050_addperson.cs",
               "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Migrations\\20251004203050_addperson.cs",
               "RelativeDocumentMoniker": "scafullding\\Migrations\\20251004203050_addperson.cs",
               "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Migrations\\20251004203050_addperson.cs",
               "RelativeToolTip": "scafullding\\Migrations\\20251004203050_addperson.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T20:30:50.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Person.cs",
               "RelativeDocumentMoniker": "scafullding\\Person.cs",
@@ -64,19 +60,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-04T20:29:01.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251004143359_addperon.cs",
-              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Migrations\\20251004143359_addperon.cs",
-              "RelativeDocumentMoniker": "scafullding\\Migrations\\20251004143359_addperon.cs",
-              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Migrations\\20251004143359_addperon.cs",
-              "RelativeToolTip": "scafullding\\Migrations\\20251004143359_addperon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T14:33:59.771Z",
               "EditorCaption": ""
             },
             {
@@ -94,8 +77,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "scafullding",
+              "DocumentIndex": 2,
+              "Title": "scafullding.csproj",
               "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\scafullding.csproj",
               "RelativeDocumentMoniker": "scafullding\\scafullding.csproj",
               "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\scafullding.csproj",
@@ -107,28 +90,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BikeStoresContext.cs",
-              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\BikeStoresContext.cs",
-              "RelativeDocumentMoniker": "scafullding\\BikeStoresContext.cs",
-              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\BikeStoresContext.cs",
-              "RelativeToolTip": "scafullding\\BikeStoresContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T18:19:55.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Program.cs",
               "RelativeDocumentMoniker": "scafullding\\Program.cs",
               "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\Program.cs",
               "RelativeToolTip": "scafullding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T15:03:16.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "scafullding\\BikeStoresContext.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\scafullding\\scafullding\\BikeStoresContext.cs",
+              "RelativeToolTip": "scafullding\\BikeStoresContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:19:55.306Z",
               "EditorCaption": ""
             }
           ]

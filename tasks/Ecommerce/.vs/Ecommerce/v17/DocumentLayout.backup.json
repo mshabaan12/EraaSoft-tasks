@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\dataacess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\dataacess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\models\\productsubimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\productsubimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\models\\productcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2586FEF7-884D-4E74-9746-006C2FBC9473}|Ecommerce\\Ecommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ecommerce\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:35:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\DataAcess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\DataAcess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\DataAcess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ecommerce\\DataAcess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:16:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductColor.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\ProductColor.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\ProductColor.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\ProductColor.cs",
+              "RelativeToolTip": "Ecommerce\\Models\\ProductColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:22:04.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\product.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\product.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\product.cs",
+              "RelativeToolTip": "Ecommerce\\Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:21:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductSubImage.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\ProductSubImage.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\ProductSubImage.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\ProductSubImage.cs",
+              "RelativeToolTip": "Ecommerce\\Models\\ProductSubImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:21:22.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\Category.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\Category.cs",
+              "RelativeToolTip": "Ecommerce\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:21:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Ecommerce\\Models\\Brand.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\Models\\Brand.cs",
+              "RelativeToolTip": "Ecommerce\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:21:21.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce\\appsettings.json",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\Ecommerce\\Ecommerce\\appsettings.json",
+              "RelativeToolTip": "Ecommerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T03:15:29.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

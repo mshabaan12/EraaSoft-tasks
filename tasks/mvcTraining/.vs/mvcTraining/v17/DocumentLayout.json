@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\views\\filterpersonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\views\\filterpersonvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\views\\home\\personalinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\views\\home\\personalinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\mvctraining\\mvctraining\\models\\viewmodel\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EE46A0-0BE5-4DBB-A5E9-C14CC0F746EE}|mvcTraining\\mvcTraining.csproj|solutionrelative:mvctraining\\models\\viewmodel\\personvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "mvcTraining\\Models\\Brand.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Models\\Brand.cs",
+              "RelativeToolTip": "mvcTraining\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T03:13:50.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "mvcTraining\\appsettings.Development.json",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\appsettings.Development.json",
+              "RelativeToolTip": "mvcTraining\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T02:09:19.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcTraining\\appsettings.json",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\appsettings.json",
+              "RelativeToolTip": "mvcTraining\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T00:29:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterPersonVm.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Views\\FilterPersonVm.cs",
+              "RelativeDocumentMoniker": "mvcTraining\\Views\\FilterPersonVm.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Views\\FilterPersonVm.cs",
+              "RelativeToolTip": "mvcTraining\\Views\\FilterPersonVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T23:19:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonVM.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Models\\ViewModel\\PersonVM.cs",
+              "RelativeDocumentMoniker": "mvcTraining\\Models\\ViewModel\\PersonVM.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Models\\ViewModel\\PersonVM.cs",
+              "RelativeToolTip": "mvcTraining\\Models\\ViewModel\\PersonVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:16:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "mvcTraining\\Models\\Person.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Models\\Person.cs",
+              "RelativeToolTip": "mvcTraining\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T23:13:10.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonalInfo.cshtml",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Views\\Home\\PersonalInfo.cshtml",
+              "RelativeDocumentMoniker": "mvcTraining\\Views\\Home\\PersonalInfo.cshtml",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Views\\Home\\PersonalInfo.cshtml",
+              "RelativeToolTip": "mvcTraining\\Views\\Home\\PersonalInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T00:01:45.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvcTraining\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "mvcTraining\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:19:41.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Program.cs",
+              "RelativeDocumentMoniker": "mvcTraining\\Program.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\mvcTraining\\mvcTraining\\Program.cs",
+              "RelativeToolTip": "mvcTraining\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:19:13.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

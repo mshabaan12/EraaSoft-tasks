@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("scafullding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19e680c00fa85a299b9efdb6b1eb27203a50a0d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1bec1344a9314e3a2d7e72317edf7382baef083")]
 [assembly: System.Reflection.AssemblyProductAttribute("scafullding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("scafullding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

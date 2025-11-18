@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\models\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\models\\grad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\migrations\\20251107224009_addonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\migrations\\20251107224009_addonetoone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\migrations\\20251107011722_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\migrations\\20251107011722_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|c:\\eraa soft project\\eraasoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4C2C28-692A-4361-A695-2E26BE2696F3}|ahmed mohamdy training 1\\ahmed mohamdy training 1.csproj|solutionrelative:ahmed mohamdy training 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Models\\Subject.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Subject.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Models\\Subject.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:28:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Models\\Department.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Department.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Models\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:26:46.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Models\\Student.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Student.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Models\\Student.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:52:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:09:50.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251107224009_addonetoone.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Migrations\\20251107224009_addonetoone.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Migrations\\20251107224009_addonetoone.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Migrations\\20251107224009_addonetoone.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Migrations\\20251107224009_addonetoone.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:25:46.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251107011722_addstudent.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Migrations\\20251107011722_addstudent.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Migrations\\20251107011722_addstudent.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Migrations\\20251107011722_addstudent.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Migrations\\20251107011722_addstudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T01:17:22.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connections.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Connections.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Connections.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Connections.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Connections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:41:29.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grad.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Grad.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Models\\Grad.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Models\\Grad.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Models\\Grad.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T22:31:21.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Program.cs",
+              "RelativeDocumentMoniker": "ahmed mohamdy training 1\\Program.cs",
+              "ToolTip": "C:\\eraa soft project\\EraaSoft-tasks\\tasks\\ahmed mohamdy training 1\\ahmed mohamdy training 1\\Program.cs",
+              "RelativeToolTip": "ahmed mohamdy training 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T23:08:02.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

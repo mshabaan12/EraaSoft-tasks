@@ -1,0 +1,14 @@
+﻿@model mvcTraining.Models.ViewModel.PersonVM
+<h3>Total Persons: @Model.count</h3>
+
+<ul>
+    @foreach (var Person in Model.Persons)
+    {
+        <li>Id: @Person.Id</li>
+        <li>Name: @Person.Name</li>
+        <li>Age: @Person.Age</li>
+        <li>Email: @Person.Email</li>
+        <hr />
+       
+    }
+</ul>

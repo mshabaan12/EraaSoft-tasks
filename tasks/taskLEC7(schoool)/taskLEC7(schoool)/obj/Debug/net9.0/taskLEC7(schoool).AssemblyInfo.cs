@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("taskLEC7(schoool)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2e728bb7a0a0fcf422e69f2e661359a673cf2b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1bec1344a9314e3a2d7e72317edf7382baef083")]
 [assembly: System.Reflection.AssemblyProductAttribute("taskLEC7(schoool)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("taskLEC7(schoool)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
